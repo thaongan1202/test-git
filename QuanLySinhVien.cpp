@@ -116,7 +116,6 @@ void svcodiem2 ( sinhvien p[], int n){
         in(x);
     }
 }
-// nguyễn văn quang duy: duynguyenvanquang
 // phạm thị thảo ngân: nganphamthithao
 // chuẩn hoá chuỗi 
 // sử dụng vector vì nó đếm số phần tử được nên lấy hoj tên dễ hơn
